@@ -31,7 +31,7 @@ luscious.net#?#.block_wrapper:has-text(Gay)
 luscious.net#?#.genre-list-item:has-text(Yaoi)
 luscious.net#?#li:has(> a:has-text(Futa on femboy))
 luscious.net#?#.o-justified-box:has-text(f|Femboy)
-luscious.net##.o-justified-box:has(img[src*=Femb y])
+luscious.net##.o-justified-box:has(img[src*=Femboy i])
 
 ! ——— Fur Aﬀinity ——— 🔴
 furaffinity.net#?#.t-image:has-text(/Futa([.,:;?!=s_#’“”-]|\s|\'|\"|$)/)
